@@ -1,7 +1,7 @@
 # FUTURE_DS_01
 Insightful Power BI Dashboard for Business Sales Performance Analysis
 
-📊 Business Sales Dashboard
+📊 Business Sales Analysis Dashboard
 
 🧩 Overview
 The Business Sales Dashboard is an interactive Power BI report designed to monitor key business metrics such as Sales, Profit, and Return Rates.
